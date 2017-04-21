@@ -5,5 +5,6 @@
 5. Data management within collaborative projects
 6. Prepping your data for the world: Data sharing best practices
 7. Dataset licensing and reuse
-8. Increasing your schilarly impact by improving your data management strategy
+8. Increasing your scholarly impact by improving your data management strategy
+  !should probably tie this with ecosystem better!
 9. Archives, repositories, and your data
