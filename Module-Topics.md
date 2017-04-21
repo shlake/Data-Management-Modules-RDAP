@@ -8,3 +8,4 @@
 8. Increasing your scholarly impact by improving your data management strategy
   !should probably tie this with ecosystem better!
 9. Archives, repositories, and your data
+10. What about data citation?
